@@ -1,0 +1,37 @@
+[
+  {
+    "_id": "5e30275d141401679e3832a1",
+    "role": "admin",
+    "name": "Admin",
+    "email": "questionanswer.info@gmail.com",
+    "password": "123456"
+  },
+  {
+    "_id": "5e2866280427c1ff0dd2b5cb",
+    "role": "user",
+    "name": "Çağrı Aktepe",
+    "email": "blackorsaktepe@gmail.com",
+    "password": "123456"
+  },
+  {
+    "_id": "5e300f0ffbb6b05ee9037fd2",
+    "role": "user",
+    "name": "Mehmet Türkben",
+    "email": "mehmetturkben@gmail.com",
+    "password": "123456"
+  },
+  {
+    "_id": "5e2effcccbdf585842cdb6ce",
+    "role": "user",
+    "name": "Tahir Geçgel",
+    "email": "tahirgecgel@gmail.com",
+    "password": "123456"
+  },
+  {
+    "_id": "5e302931752a052e11096e96",
+    "role": "user",
+    "name": "Ezgi Su Temel",
+    "email": "ezgisutemel@gmail.com",
+    "password": "123456"
+  }
+]
